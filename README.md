@@ -11,7 +11,7 @@ La OACI únicamente cuenta con un dataset sobre datos de accidentes de aviones, 
 
 En este repositorio encontrara 3 archivos:
  "Start1" y "Start2" son los ipynb donde realize la Exploracion, limpieza y carga de tablas a la base de datos MySql.
- "Dash1" es el archivo .pbix donde se encuentra el Dashboard/Presentacion.
+ "Dashboard" es el archivo .pbix donde se encuentra el Dashboard/Presentacion.
  
  
  # Importante!
