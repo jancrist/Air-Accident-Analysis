@@ -14,7 +14,7 @@ En este repositorio encontrara 3 archivos:
  "Dash1" es el archivo .pbix donde se encuentra el Dashboard/Presentacion.
  
  
- #Importante!
+ # Importante!
  Antes de realizar la carga de datos a MySql es necesario tener el database creado con anterioridad. En este caso la base de datos ya creada se llama "test"
  
  
